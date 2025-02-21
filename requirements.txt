@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+scikit-learn
+pickles
+pydantic 
+numpy
+streamlit
+streamlit-option-menu
